@@ -1,7 +1,7 @@
 #### Name: [MUHAMMAD ALIYU] (https://github.com/cgurusm) 
 - Place: Minna, Niger State, Nigeria
-- Bio: I am a GEEK
+- Bio: Just another human
 - Department: Computer Science 
 - Interest: Adventures, travelling
-- GitHub: [abdulgaphy](https://github.com/cgurusm )
-- Twitter: [@mrgaphy](https://twitter.com/DR_CGURUSM)
+- GitHub: [cgurusm](https://github.com/cgurusm )
+- Twitter: [@DR_CGURUSM ](https://twitter.com/DR_CGURUSM)
