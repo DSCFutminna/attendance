@@ -1,6 +1,6 @@
 # DSC FUTMinna Hacktoberfest
 
-[![Hacktoberfest'19](https://img.shields.io/badge/hacktoberfest-2019-yellowgreen)]
+[![Hacktoberfest'19](https://img.shields.io/badge/hacktoberfest-2019-yellowgreen)](#)
 
 Participate in Hacktoberfest by contributing to DSC FUTMinna on GitHub! Here is a starter project for first time contributors. #hacktoberfest
 
