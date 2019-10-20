@@ -23,7 +23,7 @@ Make a pull request for your work and wait for it to be merged!
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/DSCFutminna/attendance.git
+git clone https://github.com/your-github-username/attendance.git
 ```
 
 * Create a branch
