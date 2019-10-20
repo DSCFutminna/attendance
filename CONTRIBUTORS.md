@@ -13,3 +13,12 @@
 - Interest: Adventure.
 - GitHub: [Orientales](https://github.com/Orientales)
 - Twitter: [@Quwaysim](https://twitter.com/quwaysim)
+
+
+#### Name: [MUDASIRU RASHEED TAIWO](https://github.com/Taiwrash)
+- Place: Minna, Niger State, Nigeria
+- Bio: Web Developer, Graphic Designer
+- Department: Computer Science
+- Interest: Troubleshooting and traveling.
+- GitHub: [Taiwrash](https://github.com/Taiwrash)
+- Twitter: [@mudasirurashee](https://twitter.com/Mudasirurashee1)
