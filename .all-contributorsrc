@@ -1,0 +1,50 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Abdulqudus001",
+      "name": "Abdulqudus Abubakre",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/36643967?v=4",
+      "profile": "https://github.com/Abdulqudus001",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "abdulgaphy",
+      "name": "Raji Abdulgafar",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/30292855?v=4",
+      "profile": "http://www.thehack.info",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Orientales",
+      "name": "Qaasim Muhammad Akorede",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/35339083?v=4",
+      "profile": "https://github.com/Orientales",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Taiwrash",
+      "name": "Taiwrash",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/49725691?v=4",
+      "profile": "https://github.com/Taiwrash",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "attendance",
+  "projectOwner": "DSCFutminna",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}

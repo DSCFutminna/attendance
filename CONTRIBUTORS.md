@@ -6,6 +6,14 @@
 - GitHub: [abdulgaphy](https://github.com/abdulgaphy)
 - Twitter: [@mrgaphy](https://twitter.com/mrgaphy)
 
+#### Name: [Abdulqudus Abubakre](https://github.com/Abdulqudus001)
+- Place: Minna, Niger State, Nigeria
+- Bio: Front end developer and tech enthusiast
+- Department: Computer Engineering
+- Interest: Football, gaming, and hardware
+- GitHub: [abdulqudus001](https://github.com/Abdulqudus001)
+- Twitter: [@ibn_Abubakre](https://twitter.com/ibn_abubakre)
+
 #### Name: [QAASIM MUHAMMAD AKOREDE](https://github.com/Orientales)
 - Place: Minna, Niger State, Nigeria
 - Bio: Software Developer, Average Gamer
