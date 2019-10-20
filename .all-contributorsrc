@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Abdulqudus001",
+      "name": "Abdulqudus Abubakre",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/36643967?v=4",
+      "profile": "https://github.com/Abdulqudus001",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "attendance",
+  "projectOwner": "DSCFutminna",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
