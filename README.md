@@ -1,5 +1,5 @@
 # DSC FUTMinna Hacktoberfest
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 Participate in Hacktoberfest by contributing to DSC FUTMinna on GitHub! Here is a starter project for first time contributors. #hacktoberfest
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
@@ -85,6 +85,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Abdulqudus001"><img src="https://avatars1.githubusercontent.com/u/36643967?v=4" width="100px;" alt="Abdulqudus Abubakre"/><br /><sub><b>Abdulqudus Abubakre</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=Abdulqudus001" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.thehack.info"><img src="https://avatars3.githubusercontent.com/u/30292855?v=4" width="100px;" alt="Raji Abdulgafar"/><br /><sub><b>Raji Abdulgafar</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=abdulgaphy" title="Documentation">📖</a></td>
   </tr>
 </table>
 
