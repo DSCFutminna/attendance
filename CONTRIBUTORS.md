@@ -38,3 +38,11 @@
 - Interest: Football.
 - GitHub: [Deven96](https://github.com/deven96)
 - Twitter: [@_deven96](https://twitter.com/_deven96)
+
+#### Name: [BELLO Adeiza Luqman Ungwaha](https://github.com/ItzAboki)
+- Place: Minna, Niger State, Nigeria
+- Bio: Web, Graphics Design, and Tech Enthusiast
+- Department: Computer Engineering
+- Interest: Anything Art.
+- GitHub: [ItzAboki](https://github.com/ItzAboki)
+- Twitter: [@ItzAboki](https://twitter.com/ItzAboki)
