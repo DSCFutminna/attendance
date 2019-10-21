@@ -46,3 +46,11 @@
 - Interest: Football, Movies, Gaming, Travelling
 - GitHub: [mensaah](https://github.com/mensaah)
 - Twitter: [@_mensaah__](https://twitter.com/_mensaah__)
+
+#### Name: [Usman Ahmad](https://github.com/Loldozen)
+- Place: Minna, Niger State, Nigeria
+- Bio: Tech enthusiast
+- Department: Telecommunication Engineering
+- Interest: Football, gaming, and networking
+- GitHub: [Loldozen](https://github.com/Loldozen)
+- Twitter: [@_loldozen_](https://twitter.com/_loldozen_)
