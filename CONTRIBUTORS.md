@@ -38,3 +38,11 @@
 - Interest: Football.
 - GitHub: [Deven96](https://github.com/deven96)
 - Twitter: [@_deven96](https://twitter.com/_deven96)
+
+#### Name: [MMADU MANASSEH  ](https://github.com/mensaah)
+- Place: Minna, Niger State, Nigeria
+- Bio: Fullstack and Automations Engineer
+- Department: Computer Engineering
+- Interest: Football, Movies, Gaming, Travelling
+- GitHub: [mensaah](https://github.com/mensaah)
+- Twitter: [@_mensaah__](https://twitter.com/_mensaah__)
