@@ -100,3 +100,11 @@
 - Department: Cyber Security Science
 - Interest: Travelling, Adventure
 - GitHub: [kharljordan](https://github.com/kharljordan)
+
+#### Name: [Abdul Console](https://github.com/AbdulConsole)
+- Place: Minna, Niger State, Nigeria
+- Bio: Am a Reverse Engineer
+- Department: Cyber Security Science
+- Interest: Chelsea
+- GitHub: [Abdul Console](https://github.com/AbdulConsole)
+- Twitter: [abdul console](https://twitter.com/abdulconsole)
