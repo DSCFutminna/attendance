@@ -100,3 +100,12 @@
 - Department: Cyber Security Science
 - Interest: Travelling, Adventure
 - GitHub: [kharljordan](https://github.com/kharljordan)
+
+#### Name: [ABDULMAJEED ABDULRAHEEM ](https://github.com/mejtfk)
+- Place: Minna, Niger State, Nigeria
+- Bio: Web Developer and Tech Enthusiasts
+- Department: Cyber security science
+- Interest: Football, Movies, Gaming, Travelling
+- GitHub: [Abdulmajeed](https://github.com/mejtfk)
+- Twitter: [@Lee Abdulraheem](https://twitter.com/mejtfk)
+=======
