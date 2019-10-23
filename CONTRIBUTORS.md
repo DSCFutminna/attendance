@@ -1,4 +1,12 @@
-#### Name: [RAJI ABDULGAFAR](https://github.com/abdulgaphy)
+#### Name: [MUHAMMAD ALIYU](https://github.com/cgurusm) 
+- Place: Minna, Niger State, Nigeria
+- Bio: Just another human
+- Department: Computer Science 
+- Interest: Adventures, travelling
+- GitHub: [cgurusm](https://github.com/cgurusm )
+- Twitter: [@DR_CGURUSM ](https://twitter.com/DR_CGURUSM)
+
+#### Name: [ABDULGAFAR RAJI](https://github.com/abdulgaphy)
 - Place: Minna, Niger State, Nigeria
 - Bio: I am a GEEK
 - Department: Cyber Security Science
