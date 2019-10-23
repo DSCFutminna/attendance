@@ -46,6 +46,14 @@
 - GitHub: [Deven96](https://github.com/deven96)
 - Twitter: [@_deven96](https://twitter.com/_deven96)
 
+#### Name: [BELLO ADEIZA LUQMAN UNGWAHA](https://github.com/ItzAboki)
+- Place: Minna, Niger State, Nigeria
+- Bio: Web, Graphics Design, and Tech Enthusiast
+- Department: Computer Engineering
+- Interest: Anything Art.
+- GitHub: [ItzAboki](https://github.com/ItzAboki)
+- Twitter: [@ItzAboki](https://twitter.com/ItzAboki)
+
 #### Name: [ABDULLAHI BABA GARBA](https://github.com/Ghost-abg)
 - Place: Minna, Niger State, Nigeria
 - Bio: web developer, data science wanna be... Silent guy, all about sarcasm, weird sense...
@@ -84,4 +92,3 @@
 - Department: Cyber Security Science
 - Interest: Travelling, Adventure
 - GitHub: [kharljordan](https://github.com/kharljordan)
-- Twitter: [@kharl_jordan](https://twitter.com/kharl_jordan)
