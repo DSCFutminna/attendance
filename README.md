@@ -1,7 +1,7 @@
 # DSC FUTMinna Hacktoberfest
 
 [![Hacktoberfest'19](https://img.shields.io/badge/hacktoberfest-2019-yellowgreen)](#)
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
 
 Participate in Hacktoberfest by contributing to DSC FUTMinna on GitHub! Here is a starter project for first time contributors. #hacktoberfest
 
@@ -101,6 +101,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/cgurusm"><img src="https://avatars1.githubusercontent.com/u/33236122?v=4" width="100px;" alt="MUHAMMAD ALIYU (DR_CGURUSM)"/><br /><sub><b>MUHAMMAD ALIYU (DR_CGURUSM)</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=cgurusm" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Ghost-abg"><img src="https://avatars2.githubusercontent.com/u/50121399?v=4" width="100px;" alt="Abdullahi Garba"/><br /><sub><b>Abdullahi Garba</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=Ghost-abg" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ItzAboki"><img src="https://avatars3.githubusercontent.com/u/50954176?v=4" width="100px;" alt="BELLO Adeiza Luqman Ungwaha"/><br /><sub><b>BELLO Adeiza Luqman Ungwaha</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=ItzAboki" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/oyeyipo45"><img src="https://avatars1.githubusercontent.com/u/51447719?v=4" width="100px;" alt="Damilola Emmanuel Oyeyipo"/><br /><sub><b>Damilola Emmanuel Oyeyipo</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=oyeyipo45" title="Documentation">📖</a></td>
   </tr>
 </table>
 
