@@ -1,7 +1,7 @@
 # DSC FUTMinna Hacktoberfest
 
 [![Hacktoberfest'19](https://img.shields.io/badge/hacktoberfest-2019-yellowgreen)](#)
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
 
 Participate in Hacktoberfest by contributing to DSC FUTMinna on GitHub! Here is a starter project for first time contributors. #hacktoberfest
 
@@ -93,6 +93,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Taiwrash"><img src="https://avatars3.githubusercontent.com/u/49725691?v=4" width="100px;" alt="Taiwrash"/><br /><sub><b>Taiwrash</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=Taiwrash" title="Documentation">📖</a></td>
     <td align="center"><a href="http://diretnandomnan.webnode.com"><img src="https://avatars3.githubusercontent.com/u/23453888?v=4" width="100px;" alt="Diretnan Domnan"/><br /><sub><b>Diretnan Domnan</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=deven96" title="Documentation">📖</a></td>
     <td align="center"><a href="http://mensaah.github.io"><img src="https://avatars3.githubusercontent.com/u/24734308?v=4" width="100px;" alt="Mmadu Manasseh"/><br /><sub><b>Mmadu Manasseh</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=MeNsaaH" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/kharljordan"><img src="https://avatars3.githubusercontent.com/u/56846597?v=4" width="100px;" alt="Kharl Jordan"/><br /><sub><b>Kharl Jordan</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=kharljordan" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/GeneralXS"><img src="https://avatars3.githubusercontent.com/u/36812867?v=4" width="100px;" alt="Abdullahi Nurudeen jibrin"/><br /><sub><b>Abdullahi Nurudeen jibrin</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=GeneralXS" title="Documentation">📖</a></td>
   </tr>
 </table>
 

@@ -22,7 +22,6 @@
 - GitHub: [Orientales](https://github.com/Orientales)
 - Twitter: [@Quwaysim](https://twitter.com/quwaysim)
 
-
 #### Name: [MUDASIRU RASHEED TAIWO](https://github.com/Taiwrash)
 - Place: Minna, Niger State, Nigeria
 - Bio: Web Developer, Graphic Designer
@@ -47,10 +46,27 @@
 - GitHub: [mensaah](https://github.com/mensaah)
 - Twitter: [@_mensaah__](https://twitter.com/_mensaah__)
 
-#### Name: [Usman Ahmad](https://github.com/Loldozen)
+#### Name: [USMAN AHMAD](https://github.com/Loldozen)
 - Place: Minna, Niger State, Nigeria
 - Bio: Tech enthusiast
 - Department: Telecommunication Engineering
 - Interest: Football, gaming, and networking
 - GitHub: [Loldozen](https://github.com/Loldozen)
 - Twitter: [@_loldozen_](https://twitter.com/_loldozen_)
+
+#### Name: [ABDULLAHI NURUDEEN JIBRIN](https://github.com/abdulgaphy)
+- Place: Minna, Niger State, Nigeria
+- Bio: I Code Unique
+- Department: Cyber Security Science
+- Interest: Reading, Coding, travelling and Nature.
+- GitHub: [GeneralXS](https://github.com/GeneralXS)
+- Twitter: [Muhammad1Nuur](https://twitter.com/Muhammad1Nuur)
+
+#### Name: [KHALID ADAMU](https://github.com/kharljordan)
+- Place: Minna, Niger State, Nigeria
+- Bio: Tech Enthusiast
+- Department: Cyber Security Science
+- Interest: Travelling, Adventure
+- GitHub: [kharljordan](https://github.com/kharljordan)
+- Twitter: [@kharl_jordan](https://twitter.com/kharl_jordan)
+
