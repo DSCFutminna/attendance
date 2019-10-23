@@ -46,3 +46,12 @@
 - Interest: Football, Movies, Gaming, Travelling
 - GitHub: [mensaah](https://github.com/mensaah)
 - Twitter: [@_mensaah__](https://twitter.com/_mensaah__)
+
+#### Name: [KHALID ADAMU](https://github.com/kharljordan)
+- Place: Minna, Niger State, Nigeria
+- Bio: Tech Enthusiast
+- Department: Cyber Security Science
+- Interest: Travelling, Adventure
+- GitHub: [kharljordan](https://github.com/kharljordan)
+- Twitter: [@kharl_jordan](https://twitter.com/kharl_jordan)
+
