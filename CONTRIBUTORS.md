@@ -107,4 +107,4 @@
 - Department: Cyber Security Science
 - Interest: Chelsea
 - GitHub: [Abdul Console](https://github.com/AbdulConsole)
-- Twitter: [abdul console](https://twitter.com/abdulconsole)
+- Twitter: [@abdulconsole](https://twitter.com/abdulconsole)
