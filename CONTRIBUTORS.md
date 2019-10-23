@@ -1,4 +1,12 @@
-#### Name: [RAJI ABDULGAFAR](https://github.com/abdulgaphy)
+#### Name: [MUHAMMAD ALIYU](https://github.com/cgurusm) 
+- Place: Minna, Niger State, Nigeria
+- Bio: Just another human
+- Department: Computer Science 
+- Interest: Adventures, travelling
+- GitHub: [cgurusm](https://github.com/cgurusm )
+- Twitter: [@DR_CGURUSM ](https://twitter.com/DR_CGURUSM)
+
+#### Name: [ABDULGAFAR RAJI](https://github.com/abdulgaphy)
 - Place: Minna, Niger State, Nigeria
 - Bio: I am a GEEK
 - Department: Cyber Security Science
@@ -22,7 +30,6 @@
 - GitHub: [Orientales](https://github.com/Orientales)
 - Twitter: [@Quwaysim](https://twitter.com/quwaysim)
 
-
 #### Name: [MUDASIRU RASHEED TAIWO](https://github.com/Taiwrash)
 - Place: Minna, Niger State, Nigeria
 - Bio: Web Developer, Graphic Designer
@@ -39,16 +46,42 @@
 - GitHub: [Deven96](https://github.com/deven96)
 - Twitter: [@_deven96](https://twitter.com/_deven96)
 
-#### Name: [Abdullahi Baba Garba](https://github.com/Ghost-abg)
-
+#### Name: [ABDULLAHI BABA GARBA](https://github.com/Ghost-abg)
 - Place: Minna, Niger State, Nigeria
-
 - Bio: web developer, data science wanna be... Silent guy, all about sarcasm, weird sense...
-
 - Department: Computer Science 100lvl
-
 - Interest: Cartoons, trap music, games, memes
-
 - GitHub: [Ghost-abg](https://github.com/Ghost-abg)
-
 - Twitter: [@Ghost_abg](https://twitter.com/Ghost_abg?s=09)
+
+#### Name: [MMADU MANASSEH  ](https://github.com/mensaah)
+- Place: Minna, Niger State, Nigeria
+- Bio: Fullstack and Automations Engineer
+- Department: Computer Engineering
+- Interest: Football, Movies, Gaming, Travelling
+- GitHub: [mensaah](https://github.com/mensaah)
+- Twitter: [@_mensaah__](https://twitter.com/_mensaah__)
+
+#### Name: [USMAN AHMAD](https://github.com/Loldozen)
+- Place: Minna, Niger State, Nigeria
+- Bio: Tech enthusiast
+- Department: Telecommunication Engineering
+- Interest: Football, gaming, and networking
+- GitHub: [Loldozen](https://github.com/Loldozen)
+- Twitter: [@_loldozen_](https://twitter.com/_loldozen_)
+
+#### Name: [ABDULLAHI NURUDEEN JIBRIN](https://github.com/abdulgaphy)
+- Place: Minna, Niger State, Nigeria
+- Bio: I Code Unique
+- Department: Cyber Security Science
+- Interest: Reading, Coding, travelling and Nature.
+- GitHub: [GeneralXS](https://github.com/GeneralXS)
+- Twitter: [Muhammad1Nuur](https://twitter.com/Muhammad1Nuur)
+
+#### Name: [KHALID ADAMU](https://github.com/kharljordan)
+- Place: Minna, Niger State, Nigeria
+- Bio: Tech Enthusiast
+- Department: Cyber Security Science
+- Interest: Travelling, Adventure
+- GitHub: [kharljordan](https://github.com/kharljordan)
+- Twitter: [@kharl_jordan](https://twitter.com/kharl_jordan)
