@@ -1,7 +1,7 @@
 # DSC FUTMinna Hacktoberfest
 
 [![Hacktoberfest'19](https://img.shields.io/badge/hacktoberfest-2019-yellowgreen)](#)
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors)
 
 Participate in Hacktoberfest by contributing to DSC FUTMinna on GitHub! Here is a starter project for first time contributors. #hacktoberfest
 
@@ -98,6 +98,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/GeneralXS"><img src="https://avatars3.githubusercontent.com/u/36812867?v=4" width="100px;" alt="Abdullahi Nurudeen jibrin"/><br /><sub><b>Abdullahi Nurudeen jibrin</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=GeneralXS" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Loldozen"><img src="https://avatars2.githubusercontent.com/u/56772631?v=4" width="100px;" alt="Loldozen"/><br /><sub><b>Loldozen</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=Loldozen" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/cgurusm"><img src="https://avatars1.githubusercontent.com/u/33236122?v=4" width="100px;" alt="MUHAMMAD ALIYU (DR_CGURUSM)"/><br /><sub><b>MUHAMMAD ALIYU (DR_CGURUSM)</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=cgurusm" title="Documentation">📖</a></td>
   </tr>
 </table>
 
