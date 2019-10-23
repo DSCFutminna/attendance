@@ -70,6 +70,14 @@
 - GitHub: [mensaah](https://github.com/mensaah)
 - Twitter: [@_mensaah__](https://twitter.com/_mensaah__)
 
+#### Name: [DAMILOLA OYEYIPO](https://github/oyeyipo45)
+- Place: Abuja, Abuja State, Nigeria
+- Bio: Back-end Developer
+- Department: NIL
+- Interest: Football, free writing
+- GitHub: [oyeyipo45] (https://github.com/oyeyipo)
+- Twitter: [d.oyeyipo] (https://twitter.com/d.oyeyipo)
+
 #### Name: [USMAN AHMAD](https://github.com/Loldozen)
 - Place: Minna, Niger State, Nigeria
 - Bio: Tech enthusiast
