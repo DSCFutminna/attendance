@@ -1,4 +1,8 @@
 # DSC FUTMinna Hacktoberfest
+
+[![Hacktoberfest'19](https://img.shields.io/badge/hacktoberfest-2019-yellowgreen)](#)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors)
+
 Participate in Hacktoberfest by contributing to DSC FUTMinna on GitHub! Here is a starter project for first time contributors. #hacktoberfest
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
@@ -23,7 +27,7 @@ Make a pull request for your work and wait for it to be merged!
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/DSCFutminna/attendance.git
+git clone https://github.com/your-github-username/attendance.git
 ```
 
 * Create a branch
@@ -74,3 +78,29 @@ Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://
 Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Abdulqudus001"><img src="https://avatars1.githubusercontent.com/u/36643967?v=4" width="100px;" alt="Abdulqudus Abubakre"/><br /><sub><b>Abdulqudus Abubakre</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=Abdulqudus001" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.thehack.info"><img src="https://avatars3.githubusercontent.com/u/30292855?v=4" width="100px;" alt="Raji Abdulgafar"/><br /><sub><b>Raji Abdulgafar</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=abdulgaphy" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Orientales"><img src="https://avatars2.githubusercontent.com/u/35339083?v=4" width="100px;" alt="Qaasim Muhammad Akorede"/><br /><sub><b>Qaasim Muhammad Akorede</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=Orientales" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Taiwrash"><img src="https://avatars3.githubusercontent.com/u/49725691?v=4" width="100px;" alt="Taiwrash"/><br /><sub><b>Taiwrash</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=Taiwrash" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://diretnandomnan.webnode.com"><img src="https://avatars3.githubusercontent.com/u/23453888?v=4" width="100px;" alt="Diretnan Domnan"/><br /><sub><b>Diretnan Domnan</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=deven96" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://mensaah.github.io"><img src="https://avatars3.githubusercontent.com/u/24734308?v=4" width="100px;" alt="Mmadu Manasseh"/><br /><sub><b>Mmadu Manasseh</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=MeNsaaH" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/kharljordan"><img src="https://avatars3.githubusercontent.com/u/56846597?v=4" width="100px;" alt="Kharl Jordan"/><br /><sub><b>Kharl Jordan</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=kharljordan" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/GeneralXS"><img src="https://avatars3.githubusercontent.com/u/36812867?v=4" width="100px;" alt="Abdullahi Nurudeen jibrin"/><br /><sub><b>Abdullahi Nurudeen jibrin</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=GeneralXS" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Loldozen"><img src="https://avatars2.githubusercontent.com/u/56772631?v=4" width="100px;" alt="Loldozen"/><br /><sub><b>Loldozen</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=Loldozen" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
