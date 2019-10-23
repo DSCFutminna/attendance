@@ -46,3 +46,11 @@
 - Interest: Football, Movies, Gaming, Travelling
 - GitHub: [mensaah](https://github.com/mensaah)
 - Twitter: [@_mensaah__](https://twitter.com/_mensaah__)
+
+#### Name: [ABDULMAJEED ABDULRAHEEM ](https://github.com/mejtfk)
+- Place: Minna, Niger State, Nigeria
+- Bio: Web Developer and Tech Enthusiasts
+- Department: Computer Engineering
+- Interest: Football, Movies, Gaming, Travelling
+- GitHub: [Abdulmajeed](https://github.com/mejtfk)
+- Twitter: [@Lee Abdulraheem](https://twitter.com/mejtfk)
