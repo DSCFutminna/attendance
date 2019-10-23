@@ -121,6 +121,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "AbdulConsole",
+      "name": "Abdul Console",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32968202?v=4",
+      "profile": "http://consolelab.cf",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
