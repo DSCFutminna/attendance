@@ -115,3 +115,11 @@
 - Interest: Football, Movies, Gaming, Travelling
 - GitHub: [Abdulmajeed](https://github.com/mejtfk)
 - Twitter: [@Lee Abdulraheem](https://twitter.com/mejtfk)
+#### Name: [ISSAH SAADAT ](https://github.com/mejtfk)
+- Place: Minna, Niger State, Nigeria
+- Bio: Web Developer and Tech Enthusiasts
+- Department: Computer science
+- Interest: Basketball, Movies, Travelling
+- GitHub: [IssahSaadat](https://github.com/issahsaadat)
+- Twitter: [@Saadranty](https://twitter.com/saadranty)
+
