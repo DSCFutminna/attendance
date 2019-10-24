@@ -46,3 +46,10 @@
 - Interest: Football, Movies, Gaming, Travelling
 - GitHub: [mensaah](https://github.com/mensaah)
 - Twitter: [@_mensaah__](https://twitter.com/_mensaah__)
+#### Name: [JAMES ALHAMDU  ](https://github.com/Swant4)
+- Place: Minna, Niger State, Nigeria
+- Bio: Web Developer 
+- Department: Cyber Security Science
+- Interest: Football, Movies, coding, Travelling
+- GitHub: [Swant4](https://github.com/Swan4)
+- Twitter: [@juniasj2](https://twitter.com/juniasj2)
