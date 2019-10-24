@@ -118,7 +118,7 @@
 
 #### Name: [ALIYU YUSUF ](https://github.com/aliyusf)
 - Place: Minna, Niger State, Nigeria
-- Bio: Web Developer and Tech Enthusiasts
+- Bio: Android Developer and Tech Enthusiasts
 - Department: Mechanical Engineering
 - Interest: Resreaching
 - GitHub: [aliyusf](https://github.com/aliyusf)
