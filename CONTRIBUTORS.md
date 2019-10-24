@@ -120,7 +120,7 @@
 - Place: Minna, Niger State, Nigeria
 - Bio: Web Developer and Tech Enthusiasts
 - Department: Cyber security science
-- Interest: Football, Movies, Gaming, Travelling
-- GitHub: [Abdulmajeed](https://github.com/aliyusf)
-- Twitter: [@Lee Abdulraheem](https://twitter.com/AlifatYusuf)
+- Interest:Resreaching
+- GitHub: [aliyusf](https://github.com/aliyusf)
+- Twitter: [AlifatYusuf](https://twitter.com/AlifatYusuf)
 
