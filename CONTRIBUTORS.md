@@ -38,6 +38,13 @@
 - GitHub: [Taiwrash](https://github.com/Taiwrash)
 - Twitter: [@mudasirurashee](https://twitter.com/Mudasirurashee1)
 
+#### Name: [Joseph Naomi Ojoanache](https://github.com/OJTech-CIPHER)
+- Place: Jikwoyi, Abuja, Nigeria.
+- Bio: Web Developer, software developer
+- Department: Computer Science
+- Interest: music, games
+- GitHub: [OJTech-CIPHER](https://github.com/OJTech-CIPHER)
+
 #### Name: [DOMNAN DIRETNAN](https://diretnandomnan.webnode.com)
 - Place: Apapa, Lagos State, Nigeria
 - Bio: Back-end Developer, ML Engineer
