@@ -122,11 +122,20 @@
         "doc"
       ]
     },
-    {
+     {
       "login": "AbdulConsole",
       "name": "Abdul Console",
       "avatar_url": "https://avatars1.githubusercontent.com/u/32968202?v=4",
       "profile": "http://consolelab.cf",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mejtfk",
+      "name": "Abdulmajeed Abdulraheem",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29029321?v=4",
+      "profile": "https://github.com/mejtfk",
       "contributions": [
         "doc"
       ]

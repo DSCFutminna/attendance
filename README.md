@@ -103,6 +103,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ItzAboki"><img src="https://avatars3.githubusercontent.com/u/50954176?v=4" width="100px;" alt="BELLO Adeiza Luqman Ungwaha"/><br /><sub><b>BELLO Adeiza Luqman Ungwaha</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=ItzAboki" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/oyeyipo45"><img src="https://avatars1.githubusercontent.com/u/51447719?v=4" width="100px;" alt="Damilola Emmanuel Oyeyipo"/><br /><sub><b>Damilola Emmanuel Oyeyipo</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=oyeyipo45" title="Documentation">📖</a></td>
     <td align="center"><a href="http://consolelab.cf"><img src="https://avatars1.githubusercontent.com/u/32968202?v=4" width="100px;" alt="Abdul Console"/><br /><sub><b>Abdul Console</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=AbdulConsole" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/mejtfk"><img src="https://avatars1.githubusercontent.com/u/29029321?v=4" width="100px;" alt="Abdulmajeed Abdulraheem"/><br /><sub><b>Abdulmajeed Abdulraheem</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=mejtfk" title="Documentation">📖</a></td>
+
   </tr>
 </table>
 
