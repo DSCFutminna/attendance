@@ -116,10 +116,10 @@
 - GitHub: [Abdulmajeed](https://github.com/mejtfk)
 - Twitter: [@Lee Abdulraheem](https://twitter.com/mejtfk)
 
-#### Name: [ABDULMAJEED ABDULRAHEEM ](https://github.com/aliyusf)
+#### Name: [ALIYU YUSUF ](https://github.com/aliyusf)
 - Place: Minna, Niger State, Nigeria
-- Bio: Andriod Developer and Tech Enthusiasts
-- Department: Mechanical Engineering
+- Bio: Web Developer and Tech Enthusiasts
+- Department: Cyber security science
 - Interest: Football, Movies, Gaming, Travelling
 - GitHub: [Abdulmajeed](https://github.com/aliyusf)
 - Twitter: [@Lee Abdulraheem](https://twitter.com/AlifatYusuf)
