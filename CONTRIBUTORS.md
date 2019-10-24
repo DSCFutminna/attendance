@@ -123,3 +123,13 @@
 - GitHub: [IssahSaadat](https://github.com/issahsaadat)
 - Twitter: [@Saadranty](https://twitter.com/saadranty)
 
+#### Name: [Hamzah Fatimah](https://github.com/teemahzarah)
+- Place: Minna, Niger State, Nigeria
+- Bio: Data scientist and Tech Enthusiasts
+- Department: Information and Media Technology
+- Interest: Yoga, Movies, Travelling
+- GitHub: [teemahzarah](https://github.com/teemahzarah)
+- Twitter: [@teems_leo](https://twitter.com/teems_leo)
+
+
+
