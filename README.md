@@ -1,7 +1,7 @@
 # DSC FUTMinna Hacktoberfest
 
 [![Hacktoberfest'19](https://img.shields.io/badge/hacktoberfest-2019-yellowgreen)](#)
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors)
 
 Participate in Hacktoberfest by contributing to DSC FUTMinna on GitHub! Here is a starter project for first time contributors. #hacktoberfest
 
@@ -111,6 +111,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/OJTech-CIPHER"><img src="https://avatars3.githubusercontent.com/u/56967540?v=4" width="100px;" alt="OJTech-CIPHER"/><br /><sub><b>OJTech-CIPHER</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=OJTech-CIPHER" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Swant4"><img src="https://avatars2.githubusercontent.com/u/56826555?v=4" width="100px;" alt="Swant4"/><br /><sub><b>Swant4</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=Swant4" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/aliyusf"><img src="https://avatars1.githubusercontent.com/u/48366085?v=4" width="100px;" alt="Aliyu Yusuf "/><br /><sub><b>Aliyu Yusuf </b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=aliyusf" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/M4YAN4"><img src="https://avatars3.githubusercontent.com/u/38871940?v=4" width="100px;" alt="Ayodele Ernest Oluwatobi"/><br /><sub><b>Ayodele Ernest Oluwatobi</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=M4YAN4" title="Documentation">📖</a></td>
   </tr>
 </table>
 
