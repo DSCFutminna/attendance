@@ -129,7 +129,16 @@
 - Department: Cyber security science
 - Interest: Football, Movies, Gaming, Travelling
 - GitHub: [Abdulmajeed](https://github.com/mejtfk)
-- Twitter: [@Lee Abdulraheem](https://twitter.com/mejtfk)
+- Twitter: [@Lee Abdulraheem](https://twitter.com/mejtfk
+
+#### Name: [ALIYU YUSUF ](https://github.com/aliyusf)
+- Place: Minna, Niger State, Nigeria
+- Bio: Android Developer and Tech Enthusiasts
+- Department: Mechanical Engineering
+- Interest: Resreaching
+- GitHub: [aliyusf](https://github.com/aliyusf)
+- Twitter: [AlifatYusuf](https://twitter.com/AlifatYusuf)
+
 #### Name: [ISSAH SAADAT ](https://github.com/mejtfk)
 - Place: Minna, Niger State, Nigeria
 - Bio: Web Developer and Tech Enthusiasts
