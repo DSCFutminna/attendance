@@ -123,13 +123,23 @@
 - Interest: Chelsea
 - GitHub: [Abdul Console](https://github.com/AbdulConsole)
 - Twitter: [@abdulconsole](https://twitter.com/abdulconsole)
+
 #### Name: [ABDULMAJEED ABDULRAHEEM ](https://github.com/mejtfk)
 - Place: Minna, Niger State, Nigeria
 - Bio: Web Developer and Tech Enthusiasts
 - Department: Cyber security science
 - Interest: Football, Movies, Gaming, Travelling
 - GitHub: [Abdulmajeed](https://github.com/mejtfk)
-- Twitter: [@Lee Abdulraheem](https://twitter.com/mejtfk
+- Twitter: [@Lee Abdulraheem](https://twitter.com/mejtfk)
+
+#### Name: [Ayodele Ernest Oluwatobi](https://github.com/M4YAN4)
+- Place: Minna, Niger State, Nigeria
+- Bio: I'm the Forensics Guy
+- Department: Cyber Security Science
+- Interest: Travelling, Tv Series, Cyber Law
+- GitHub: [M4YAN4](https://github.com/M4YAN4)
+- Twitter: [@tobi_mayana](https://twitter.com/tobi_mayana)
+- Twitter: [@Lee Abdulraheem](https://twitter.com/mejtfk)
 
 #### Name: [ALIYU YUSUF ](https://github.com/aliyusf)
 - Place: Minna, Niger State, Nigeria
