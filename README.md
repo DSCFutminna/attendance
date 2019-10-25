@@ -1,7 +1,7 @@
 # DSC FUTMinna Hacktoberfest
 
 [![Hacktoberfest'19](https://img.shields.io/badge/hacktoberfest-2019-yellowgreen)](#)
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors)
 
 Participate in Hacktoberfest by contributing to DSC FUTMinna on GitHub! Here is a starter project for first time contributors. #hacktoberfest
 
@@ -107,6 +107,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/mejtfk"><img src="https://avatars1.githubusercontent.com/u/29029321?v=4" width="100px;" alt="Abdulmajeed Abdulraheem"/><br /><sub><b>Abdulmajeed Abdulraheem</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=mejtfk" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/IssahSaadat"><img src="https://avatars0.githubusercontent.com/u/36306895?v=4" width="100px;" alt="IssahSaadat"/><br /><sub><b>IssahSaadat</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=IssahSaadat" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Teemahzarah"><img src="https://avatars1.githubusercontent.com/u/36327583?v=4" width="100px;" alt="Teemahzarah"/><br /><sub><b>Teemahzarah</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=Teemahzarah" title="Documentation">📖</a></td>
   </tr>
 </table>
 
