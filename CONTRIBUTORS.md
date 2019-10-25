@@ -38,6 +38,13 @@
 - GitHub: [Taiwrash](https://github.com/Taiwrash)
 - Twitter: [@mudasirurashee](https://twitter.com/Mudasirurashee1)
 
+#### Name: [Joseph Naomi Ojoanache](https://github.com/OJTech-CIPHER)
+- Place: Jikwoyi, Abuja, Nigeria.
+- Bio: Web Developer, software developer
+- Department: Computer Science
+- Interest: music, games
+- GitHub: [OJTech-CIPHER](https://github.com/OJTech-CIPHER)
+
 #### Name: [DOMNAN DIRETNAN](https://diretnandomnan.webnode.com)
 - Place: Apapa, Lagos State, Nigeria
 - Bio: Back-end Developer, ML Engineer
@@ -69,6 +76,14 @@
 - Interest: Football, Movies, Gaming, Travelling
 - GitHub: [mensaah](https://github.com/mensaah)
 - Twitter: [@_mensaah__](https://twitter.com/_mensaah__)
+
+#### Name: [JAMES ALHAMDU  ](https://github.com/Swant4)
+- Place: Kafanchan, Kaduna State, Nigeria
+- Bio: Web Developer 
+- Department: Cyber Security Science
+- Interest: Football, Movies, coding, Travelling
+- GitHub: [Swant4](https://github.com/Swan4)
+- Twitter: [@juniasj2](https://twitter.com/juniasj2)
 
 #### Name: [DAMILOLA OYEYIPO](https://github/oyeyipo45)
 - Place: Abuja, Abuja State, Nigeria
@@ -108,6 +123,7 @@
 - Interest: Chelsea
 - GitHub: [Abdul Console](https://github.com/AbdulConsole)
 - Twitter: [@abdulconsole](https://twitter.com/abdulconsole)
+
 #### Name: [ABDULMAJEED ABDULRAHEEM ](https://github.com/mejtfk)
 - Place: Minna, Niger State, Nigeria
 - Bio: Web Developer and Tech Enthusiasts
@@ -123,3 +139,28 @@
 - Interest: Travelling, Tv Series, Cyber Law
 - GitHub: [M4YAN4](https://github.com/M4YAN4)
 - Twitter: [@tobi_mayana](https://twitter.com/tobi_mayana)
+- Twitter: [@Lee Abdulraheem](https://twitter.com/mejtfk)
+
+#### Name: [ALIYU YUSUF ](https://github.com/aliyusf)
+- Place: Minna, Niger State, Nigeria
+- Bio: Android Developer and Tech Enthusiasts
+- Department: Mechanical Engineering
+- Interest: Resreaching
+- GitHub: [aliyusf](https://github.com/aliyusf)
+- Twitter: [AlifatYusuf](https://twitter.com/AlifatYusuf)
+
+#### Name: [ISSAH SAADAT ](https://github.com/mejtfk)
+- Place: Minna, Niger State, Nigeria
+- Bio: Web Developer and Tech Enthusiasts
+- Department: Computer science
+- Interest: Basketball, Movies, Travelling
+- GitHub: [IssahSaadat](https://github.com/issahsaadat)
+- Twitter: [@Saadranty](https://twitter.com/saadranty)
+
+#### Name: [Hamzah Fatimah](https://github.com/teemahzarah)
+- Place: Minna, Niger State, Nigeria
+- Bio: Data scientist and Tech Enthusiasts
+- Department: Information and Media Technology
+- Interest: Yoga, Movies, Travelling
+- GitHub: [teemahzarah](https://github.com/teemahzarah)
+- Twitter: [@teems_leo](https://twitter.com/teems_leo)
