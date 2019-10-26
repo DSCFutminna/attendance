@@ -164,3 +164,11 @@
 - Interest: Yoga, Movies, Travelling
 - GitHub: [teemahzarah](https://github.com/teemahzarah)
 - Twitter: [@teems_leo](https://twitter.com/teems_leo)
+
+#### Name: [jimoh yusuf](https://github.com/yusuf1990)
+- Place: Minna, Niger State, Nigeria
+- Bio: Data scientist and Tech Enthusiasts
+- Department: computer science
+- Interest: Yoga, Movies, football
+- GitHub: [yusuf1990](https://github.com/teemahzarah)
+- Twitter: [@yusuf_2345](https://twitter.com/teems_leo)
