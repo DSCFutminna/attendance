@@ -164,3 +164,11 @@
 - Interest: Yoga, Movies, Travelling
 - GitHub: [teemahzarah](https://github.com/teemahzarah)
 - Twitter: [@teems_leo](https://twitter.com/teems_leo)
+
+#### Name: [FAIZ BASHEER](https://github.com/basheerfaiz)
+- Place: offa, kwara State, Nigeria
+- Bio: I am a student
+- Department: Computer Science
+- Interest: playing,reading.
+- GitHub: [basheerfaiz](https://github.com/basheerfaiz)
+- Twitter: [@basheer](https://twitter.com/basheer)
