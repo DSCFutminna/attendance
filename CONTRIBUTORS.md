@@ -132,6 +132,13 @@
 - GitHub: [Abdulmajeed](https://github.com/mejtfk)
 - Twitter: [@Lee Abdulraheem](https://twitter.com/mejtfk)
 
+#### Name: [MARYAM MUSA ](https://github.com/mhariham)
+- Place: Minna, Niger State, Nigeria
+- Bio: Web Developer and Tech Enthusiast
+- Department: Cyber security science
+- Interest: Movies, Travelling
+- GitHub: [mhariham](https://github.com/mhariham)
+
 #### Name: [Ayodele Ernest Oluwatobi](https://github.com/M4YAN4)
 - Place: Minna, Niger State, Nigeria
 - Bio: I'm the Forensics Guy
