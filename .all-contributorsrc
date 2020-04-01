@@ -193,11 +193,21 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "BossBaale",
+      "name": "BossBaale",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/56881480?v=4",
+      "profile": "https://github.com/BossBaale",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "attendance",
   "projectOwner": "DSCFutminna",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
