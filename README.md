@@ -109,6 +109,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/BossBaale"><img src="https://avatars3.githubusercontent.com/u/56881480?v=4" width="100px;" alt=""/><br /><sub><b>BossBaale</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=BossBaale" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/yusuf1990"><img src="https://avatars3.githubusercontent.com/u/56927079?v=4" width="100px;" alt=""/><br /><sub><b>yusuf1990</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=yusuf1990" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/mhariham"><img src="https://avatars1.githubusercontent.com/u/44252781?v=4" width="100px;" alt=""/><br /><sub><b>mhariham</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=mhariham" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Basheer-Faiz"><img src="https://avatars0.githubusercontent.com/u/52883040?v=4" width="100px;" alt=""/><br /><sub><b>Basheer-Faiz</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=Basheer-Faiz" title="Documentation">📖</a></td>
   </tr>
 </table>
 
