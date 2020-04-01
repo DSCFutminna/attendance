@@ -108,6 +108,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/M4YAN4"><img src="https://avatars3.githubusercontent.com/u/38871940?v=4" width="100px;" alt=""/><br /><sub><b>Ayodele Ernest Oluwatobi</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=M4YAN4" title="Documentation">📖</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/mhariham"><img src="https://avatars1.githubusercontent.com/u/44252781?v=4" width="100px;" alt=""/><br /><sub><b>mhariham</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=mhariham" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Basheer-Faiz"><img src="https://avatars0.githubusercontent.com/u/52883040?v=4" width="100px;" alt=""/><br /><sub><b>Basheer-Faiz</b></sub></a><br /><a href="https://github.com/DSCFutminna/attendance/commits?author=Basheer-Faiz" title="Documentation">📖</a></td>
   </tr>
 </table>
