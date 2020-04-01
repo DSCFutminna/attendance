@@ -156,6 +156,13 @@
 - GitHub: [Orientales](https://github.com/Orientales)
 - Twitter: [@Quwaysim](https://twitter.com/quwaysim)
 
+#### Name: [MARYAM MUSA ](https://github.com/mhariham)
+- Place: Minna, Niger State, Nigeria
+- Bio: Web Developer and Tech Enthusiast
+- Department: Cyber security science
+- Interest: Movies, Travelling
+- GitHub: [mhariham](https://github.com/mhariham)
+
 #### Name: [MMADU MANASSEH  ](https://github.com/mensaah)
 - Place: Minna, Niger State, Nigeria
 - Bio: Fullstack and Automations Engineer
