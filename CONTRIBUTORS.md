@@ -86,6 +86,14 @@
 - GitHub: [Deven96](https://github.com/deven96)
 - Twitter: [@_deven96](https://twitter.com/_deven96)
 
+#### Name: [FAIZ BASHEER](https://github.com/basheerfaiz)
+- Place: offa, kwara State, Nigeria
+- Bio: I am a student
+- Department: Computer Science
+- Interest: playing,reading.
+- GitHub: [basheerfaiz](https://github.com/basheerfaiz)
+- Twitter: [@basheer](https://twitter.com/basheer)
+
 #### Name: [Hamzah Fatimah](https://github.com/teemahzarah)
 - Place: Minna, Niger State, Nigeria
 - Bio: Data scientist and Tech Enthusiasts
