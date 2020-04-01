@@ -1,18 +1,10 @@
-# DSC FUTMinna Hacktoberfest
+# DSC FUTMinna Members
+
+A Listing of all our members past and present
 
 [![Hacktoberfest'19](https://img.shields.io/badge/hacktoberfest-2019-yellowgreen)](#)
 [![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors)
 
-Participate in Hacktoberfest by contributing to DSC FUTMinna on GitHub! Here is a starter project for first time contributors. #hacktoberfest
-
-Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
-
-Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
-
-This repository is open to all members of the DSC FUTMinna community. Any member may contribute to this project without being a collaborator.
-
-## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 ## How to contribute to this project
 Here is the quick and painless ways to contribute to this project:
@@ -51,12 +43,13 @@ git push origin branch-name
 
 ## Choose from these tasks
 ### 1. Add your name
-Add your name to the `CONTRIBUTORS.md` file using the below convention:
+Add your name in alphabetical order to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
 #### Name: [YOUR NAME](GitHub link)
 - Place: City, State, Country
 - Bio: Who are you?
+- Stack: Python (Flask, Django), Node(Express)
 - Department: Computer Science
 - Interest: Football
 - GitHub: [GitHub account name](GitHub link)
