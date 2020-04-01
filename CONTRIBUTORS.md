@@ -10,7 +10,7 @@
 - Place: Minna, Niger State, Nigeria
 - Bio: I am a GEEK
 - Department: Cyber Security Science
-- Interest: Football, travelling and Nature.
+-ft  Interest: Football, travelling and Nature.
 - GitHub: [abdulgaphy](https://github.com/abdulgaphy)
 - Twitter: [@mrgaphy](https://twitter.com/mrgaphy)
 
@@ -69,6 +69,14 @@
 - Interest: Anything Art.
 - GitHub: [ItzAboki](https://github.com/ItzAboki)
 - Twitter: [@ItzAboki](https://twitter.com/ItzAboki)
+
+#### Name: [Boss Baale](https://github.com/bossbaale)
+- Place: Minna, Niger State, Nigeria
+- Bio: Android Developer and Tech Enthusiasts
+- Department: Electrical/Electronics Engineering
+- Interest:Sleeping, Politics, Movies, Football .
+- GitHub: [bossbaale](https://github.com/bossbaale)
+- Twitter: [@Omo_Iya_Onigari](https://twitter.com/Omo_Iya_Onigari
 
 #### Name: [DAMILOLA OYEYIPO](https://github/oyeyipo45)
 - Place: Abuja, Abuja State, Nigeria
