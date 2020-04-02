@@ -1,3 +1,13 @@
+
+
+#### Name: [Aaron Aniebiet](https://github.com/AironDev)
+- Place: Minna, Niger State, Nigeria
+- Bio: Natural Philosopher, Computer Enthusiasts, Software/Business Developer
+- Department: Physics/Computer Science
+- Interest: I don't want to lie
+- GitHub: [Airon Dev](https://github.com/AironDev)
+- Twitter: [@airon_dev](https://twitter
+
 #### Name: [Abdul Console](https://github.com/AbdulConsole)
 - Place: Minna, Niger State, Nigeria
 - Bio: Am a Reverse Engineer
