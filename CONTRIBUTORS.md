@@ -48,7 +48,7 @@
 
 #### Name: [USMAN AHMAD](https://github.com/Loldozen)
 - Place: Minna, Niger State, Nigeria
-- Bio: Tech enthusiast
+- Bio: Backend Developer (Beginner), Tech enthusiast
 - Department: Telecommunication Engineering
 - Interest: Football, gaming, and networking
 - GitHub: [Loldozen](https://github.com/Loldozen)
