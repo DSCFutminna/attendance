@@ -205,3 +205,11 @@
 - GitHub: [Loldozen](https://github.com/Loldozen)
 - Twitter: [@_loldozen_](https://twitter.com/_loldozen_)
 
+#### Name: [ZEN](https://github.com/mzaini30)
+- Place: Samarinda, East Borneo, Indonesia
+- Bio: Book layouter
+- Department: Caraka Publishing
+- Interest: Svelte and JavaScript
+- GitHub: [mzaini30](https://github.com/mzaini30)
+- Twitter: 
+
